@@ -1,11 +1,11 @@
 ### Strings ###
 
 my_string = "Mi String"
-my_other_string = 'Mi otro String'
+Other_string = 'Otro String'
 
 print(len(my_string))
-print(len(my_other_string))
-print(my_string + " " + my_other_string)
+print(len(Other_string))
+print(my_string + " " + Other_string)
 
 my_new_line_string = "Este es un String\ncon salto de línea"
 print(my_new_line_string)
