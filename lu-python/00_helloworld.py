@@ -1,7 +1,7 @@
 ### Hola Mundo ###
 
 # Nuestro hola mundo en Python
-print("Hola Python")
+print("Hola Mundo")
 print('Hola Mundo')
 
 # Esto es un comentario
